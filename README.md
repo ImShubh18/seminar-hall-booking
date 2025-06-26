@@ -1,5 +1,6 @@
 --Project Title: Seminar Hall Booking System
-#Description:
+
+Description:
 The Seminar Hall Booking System is a web-based application designed to streamline the process of reserving seminar halls within an educational or organizational environment. It eliminates manual scheduling conflicts and provides a centralized platform for users to view availability, request bookings, and receive confirmations efficiently.
 
 Built with a focus on ease of use, transparency, and real-time data management, the system allows authorized users—such as faculty, staff, or event coordinators—to book seminar halls based on date, time slot, and purpose. Administrators can approve or reject bookings, monitor usage analytics, and manage hall-related resources.
